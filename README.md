@@ -54,8 +54,14 @@ Tags: `@feliz`, `@excecao`, `@alternativo`, `@limite` e `@smoke`.
 
 ## Saída do `npm test`
 
-<!-- Cole aqui a saída do npm test depois de rodar na máquina de vocês. -->
 
 ```
-(colar a saída aqui)
+> newsflow-bdd@1.0.0 test
+> cucumber-js
+
+..................................................................................................................................................................
+
+29 scenarios (29 passed)
+162 steps (162 passed)
+0m00.086s (executing steps: 0m00.023s)
 ```
